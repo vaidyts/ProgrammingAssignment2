@@ -1,5 +1,5 @@
 ## Below are 2 functions, makeCacheMatrix and cacheSolve. Together they are useful in calculating
-## the mean of an invertible matrix, either using its cached value, or using matrix inversion, 
+## inverse of an invertible matrix, either using its cached value, or using matrix inversion, 
 ## depending on the situation.
 
 # makeCacheMatrix takes a numeric input, assigns it to x, sets its inverse, denoted by m, to NULL
